@@ -1,4 +1,4 @@
-# wine-quality-analysis
+# Wine-Quality-Analysis
 
 The code performs exploratory data analysis on the wine quality dataset, normalizes the features, splits the dataset into training and testing sets, and evaluates the performance of five different machine learning models on the dataset. The machine learning models evaluated include Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, and Support Vector Machine (SVM). The evaluation metrics used include accuracy score, F1 score, and classification report. The performance of each model is compared and presented in a tabular format.
 
